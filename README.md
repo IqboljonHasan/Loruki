@@ -1,2 +1,2 @@
 # Loruki
-### Visit Live [Web Page](https://ir-template.netlify.app/)
+### Visit Live Netlify [Web Page](https://loruki-cli.netlify.app/)
